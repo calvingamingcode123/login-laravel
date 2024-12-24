@@ -741,7 +741,7 @@
                         <tr>
                           <th scope="col">Product</th>
                           <th scope="col">Price</th>
-                          <th scope="col">Category</th>
+                          {{-- <th scope="col">Category</th> --}}
                         </tr>
                       </thead>
                       <tbody>
